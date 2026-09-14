@@ -1,0 +1,12 @@
+{
+  "name": "artplayer-express",
+  "version": "1.0.0",
+  "description": "Artplayer dengan parameter URL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
